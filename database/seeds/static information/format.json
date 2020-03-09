@@ -1,0 +1,56 @@
+{
+"RECORDS":[
+{
+"format_id":1,
+"cod_doc":"Zung",
+"name":"ESCALA DE ZUNG",
+"description":"A continuaci�n, se presentan una serie de afirmaciones que se relacionan con su estado de �nimo o c�mo se ha sentido �ltimamente. Encierre en un c�rculo la alternativa que m�s se ajusta a la frecuencia con la cual ha sentido el estado de �nimo que se propone.",
+"version":"Versi�n Venezuela 99-1",
+"date_format":"2018\/2\/18",
+"status":"1",
+"user_id":1,
+"created_at":null,
+"updated_at":null,
+"deleted_at":null
+},
+{
+"format_id":2,
+"cod_doc":"SF36",
+"name":"Entrevista SF36",
+"description":"ENTREVISTA ESTRUCTURADA PARA LA ADMINISTRACIÓN DE LA SF-36",
+"version":"Ver. 01",
+"date_format":"2018\/3\/26",
+"status":"1",
+"user_id":1,
+"created_at":null,
+"updated_at":"2018\/3\/28 18:24:28",
+"deleted_at":null
+},
+{
+"format_id":3,
+"cod_doc":"ERP",
+"name":"ECOCARDIOGRAMA_ERP",
+"description":"ECOCARDIOGRAMA BIDIMENSIONAL-DOPPLER COLOR         ",
+"version":"Ver. 01",
+"date_format":"2018\/3\/28",
+"status":"1",
+"user_id":1,
+"created_at":null,
+"updated_at":null,
+"deleted_at":null
+},
+{
+"format_id":4,
+"cod_doc":"LRP",
+"name":"LABORATORIO_RP",
+"description":"CD1700 SPECIMEN DATA REPORT",
+"version":"Ver. 01",
+"date_format":"2018\/3\/30",
+"status":"1",
+"user_id":1,
+"created_at":null,
+"updated_at":null,
+"deleted_at":null
+}
+]
+}

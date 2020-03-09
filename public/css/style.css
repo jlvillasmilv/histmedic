@@ -1,0 +1,59 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 62px;
+}
+
+/* FOOTER */
+
+.footer {
+    position: absolute !important;
+    bottom: 0 !important;
+   /* width: 100% !important;*/
+    /* Set the fixed height of the footer here */
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+
+/* TABLAS GENERALES*/
+
+table{
+    text-align: center;
+    margin:0 auto;
+    vertical-align: middle;
+}
+
+table > thead > tr > th{
+    text-align: center;
+}
+
+th{
+	text-align: center;
+}
+
+img{
+    margin:0 auto;
+}
+
+.pagination {
+    padding: 10px 15px;
+    font-size: 10px;
+    line-height: 1.5;
+    margin: 0px;
+}
+.jumbotron{
+    /*background: url("../img/fondo1.png");*/
+    padding-bottom: 10px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-top: 10px !important;
+}
+.titulo{
+    font-family: 'Fjalla One', sans-serif;
+    color: #efefef;
+}

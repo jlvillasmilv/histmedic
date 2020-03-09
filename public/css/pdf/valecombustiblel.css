@@ -1,0 +1,17 @@
+html, body
+{
+   height: 100%;
+   font-family:Arial;
+}
+
+table{
+  font-size: 9px;
+  width: 100%;
+}
+
+.pagenum:before { content: counter(page); }
+
+th,td {
+    height: 4px;
+    text-align: left;
+}

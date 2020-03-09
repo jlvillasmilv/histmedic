@@ -1,0 +1,29 @@
+body{
+    background-image: url("../../img/marca_agua.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial,
+    sans-serif; font-size: 12px;
+}
+
+ table{
+
+ }
+.firstLine {
+    border-bottom: 1px solid black;
+}
+.pagenum:before { content: counter(page);
+
+}
+#modelo{
+
+    width: 500px;
+}
+
+th{
+
+border-bottom: 1px solid black;
+
+}
+
+

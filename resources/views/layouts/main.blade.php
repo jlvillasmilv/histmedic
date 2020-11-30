@@ -12,7 +12,9 @@
 
 </head>
 
-<body {{ Session::has('notification') ? 'data-notification' : '' }} data-notification-type='{{ Session::get('notification')['alert_type'] }}' data-notification-message='{{ json_encode(Session::get('notification')['message']) }}'>
+<body {{ Session::has('notification') ? 'data-notification' : '' }} 
+data-notification-type="{{  Session::has('notification') ? Session::get('notification')['alert_type'] : '' }}" 
+data-notification-message="{{ Session::has('notification') ? json_encode(Session::get('notification')['message']) : '' }}">
 
 @include('layouts.nav')
 
